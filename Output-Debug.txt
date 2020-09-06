@@ -1,0 +1,20 @@
+﻿'Weekly1Task5.exe' (Win32): Loaded 'C:\Users\Rutha\source\repos\Weekly1Task5\Debug\Weekly1Task5.exe'. Symbols loaded.
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3704 has exited with code 0 (0x0).
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Weekly1Task5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x3510 has exited with code 0 (0x0).
+The thread 0x3768 has exited with code 0 (0x0).
+The thread 0x2208 has exited with code 0 (0x0).
+The program '[9540] Weekly1Task5.exe' has exited with code 0 (0x0).
